@@ -1,0 +1,8 @@
+{
+  "name": "Pawel",
+  "description": "Filmy",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/pawel959/TestPlugins/builds/plugins.json"
+  ]
+}
